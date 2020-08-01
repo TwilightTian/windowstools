@@ -1,0 +1,10 @@
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form.resources
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\屏幕亮度调节器.exe.config
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\屏幕亮度调节器.exe
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\屏幕亮度调节器.pdb
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\屏幕亮度调节器.exe
+G:\vsspacework\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\屏幕亮度调节器.pdb
